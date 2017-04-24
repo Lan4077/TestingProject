@@ -1,0 +1,9 @@
+C:\Users\lan40\onedrive\документы\visual studio 2017\Projects\TestingProject\TestingProject\bin\Debug\TestingProject.exe.config
+C:\Users\lan40\onedrive\документы\visual studio 2017\Projects\TestingProject\TestingProject\bin\Debug\TestingProject.exe
+C:\Users\lan40\onedrive\документы\visual studio 2017\Projects\TestingProject\TestingProject\bin\Debug\TestingProject.pdb
+C:\Users\lan40\onedrive\документы\visual studio 2017\Projects\TestingProject\TestingProject\obj\Debug\TestingProject.csprojResolveAssemblyReference.cache
+C:\Users\lan40\onedrive\документы\visual studio 2017\Projects\TestingProject\TestingProject\obj\Debug\TestingProject.Form1.resources
+C:\Users\lan40\onedrive\документы\visual studio 2017\Projects\TestingProject\TestingProject\obj\Debug\TestingProject.Properties.Resources.resources
+C:\Users\lan40\onedrive\документы\visual studio 2017\Projects\TestingProject\TestingProject\obj\Debug\TestingProject.csproj.GenerateResource.Cache
+C:\Users\lan40\onedrive\документы\visual studio 2017\Projects\TestingProject\TestingProject\obj\Debug\TestingProject.exe
+C:\Users\lan40\onedrive\документы\visual studio 2017\Projects\TestingProject\TestingProject\obj\Debug\TestingProject.pdb
