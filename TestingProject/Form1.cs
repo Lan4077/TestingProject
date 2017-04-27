@@ -29,6 +29,32 @@ namespace TestingProject
             pictureBox1.Refresh();
         }
 
+        public void rachet(double max_m, double min_m, double max_r, double min_r, double max_t)
+        {
+            Random rand = new Random();
+                double mass, radius, tem, max_zl,zl , min_zl, br = 0;
+                if (stars[current_star, 2] == 7)
+                {
+                    mass = Convert.ToDouble(rand.Next(180000001, 600000000)) / 10000000;
+                    radius = Convert.ToDouble(rand.Next(70000001, 150000000)) / 10000000;
+                    tem = Convert.ToDouble(rand.Next(300000001, 600000000)) / 10000;
+                    br = Convert.ToDouble(rand.Next(200000001, 1400000000)) / 1000;
+                    zl = Math.Sqrt(br);
+                    max_zl = zl * 1.15;
+                    min_zl = zl * 0.85;
+                    stars[current_star, 3] = mass;
+                    stars[current_star, 4] = radius;
+                    stars[current_star, 5] = tem;
+                    stars[current_star, 6] = max_zl;
+                    stars[current_star, 7] = min_zl;
+                    stars[current_star, 9] = br;
+                    label8.Text = Convert.ToString(mass);
+                    label9.Text = Convert.ToString(radius);
+                    label10.Text = Convert.ToString(tem);
+                    label11.Text = Convert.ToString(min_zl);
+                    label12.Text = Convert.ToString(max_zl);
+        }
+
         public string label7_text_star(int i)
         {
             string klass = "";
